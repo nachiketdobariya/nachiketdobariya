@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👨‍💻 **I’m currently working on:** <br>
-Working on React Native, Next.js, Latest with Kotlin Architeture.<br><br>
+Working on React Native, Next.js, Android with Kotlin Architeture.<br><br>
 🌱 **I’m currently learning:** <br>
 AWS Services, Advanced Android Framework and Best practices.<br><br>
 👯 **I’m looking to collaborate on:** <br>
