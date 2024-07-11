@@ -3,7 +3,7 @@
 👨‍💻 **I’m currently working on:** <br>
 Working on React Native, Next.js, Android with Kotlin Architeture.<br><br>
 🌱 **I’m currently learning:** <br>
-AWS Services, Advanced Android Framework and Best practices.<br><br>
+AWS Services, Advanced Android Framework with Best Practices.<br><br>
 👯 **I’m looking to collaborate on:** <br>
 Fullstack Projects<br><br>
 💬 **Ask me about:** <br>
