@@ -7,7 +7,7 @@ AWS Services, Advanced Android Framework with Best Practices.<br><br>
 👯 **I’m looking to collaborate on:** <br>
 Fullstack Projects<br><br>
 💬 **Ask me about:** <br>
-Android, React, Nextjs, Node.js, AWS.<br>
+Android, React, Next.js, Node.js, AWS.<br>
 
 ## 🌐 Socials:
 
