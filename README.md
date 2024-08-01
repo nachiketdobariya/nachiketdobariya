@@ -25,7 +25,7 @@ Android, React, Next.js, Node.js, AWS.<br>
 ### 💰 <a href="https://www.wealthagile.com/" target="_blank">WealthAgile Inc.</a>
 * **Description:** A financial services website featuring company information, service offerings, and client resources. The design focuses on professionalism and user engagement.
 
-### 🛒 <a href="#" target="_blank">WordPress with WooCommerce Projects</a>
+### 🛒 WordPress with WooCommerce Projects
 * **Description:** Developed various e-commerce websites using WordPress and WooCommerce, offering a wide range of customization options and features for online shopping.
 
 ## 💻 Tech Stack:
