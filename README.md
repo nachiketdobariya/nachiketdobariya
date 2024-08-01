@@ -13,19 +13,19 @@ Android, React, Next.js, Node.js, AWS.<br>
 
 * **Common Technologies Used:** Next.js, Tailwind CSS, HTML5, CSS3, JavaScript, Responsive Design, PHP, WordPress, WooCommerce.
 
-### [👩🏻‍🎨 Flawless Beauty](https://flawlessbeauty.co.nz/) 
+### <a href="https://flawlessbeauty.co.nz/" target="_blank">👩🏻‍🎨 Flawless Beauty</a>
 * **Description:** A website for a beauty clinic showcasing their services, products, and team. It includes a modern, responsive design with a focus on user-friendly navigation and service presentation.
 
-### [💼 Divine Softcare](https://divinesoftcare.com/) 
+### <a href="https://divinesoftcare.com/" target="_blank">💼 Divine Softcare</a>
 * **Description:** A professional website for a software development and IT services company. Features include service listings, company information, and contact forms with a clean and corporate design.
 
-### [🎨 Nisha Art](http://nishaart.in/) 
+### <a href="http://nishaart.in/" target="_blank">🎨 Nisha Art</a> 
 * **Description:** An art portfolio website displaying artworks and artist information. It offers an elegant and visually appealing design tailored to showcase artistic creations.
 
-### [💰 WealthAgile Inc.](https://www.wealthagile.com/) 
+### <a href="https://www.wealthagile.com/" target="_blank">💰 WealthAgile Inc.</a>
 * **Description:** A financial services website featuring company information, service offerings, and client resources. The design focuses on professionalism and user engagement.
 
-### [🛒 WordPress with WooCommerce Projects](#) 
+### <a href="#" target="_blank">🛒 WordPress with WooCommerce Projects</a>
 * **Description:** Developed various e-commerce websites using WordPress and WooCommerce, offering a wide range of customization options and features for online shopping.
 
 ## 💻 Tech Stack:
